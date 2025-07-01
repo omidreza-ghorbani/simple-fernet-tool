@@ -1,6 +1,7 @@
 # Simple Fernet Tool
 
 Fernet-based text encryption/decryption tool
+
 ---
 
 ## Features
